@@ -1,0 +1,111 @@
+
+
+body{
+  margin:0px;
+  background-color: grey;
+  position: relative;
+
+}
+
+h1{
+  color: #512b58;
+}
+
+h2{
+  color: #512b58;
+}
+
+#history
+{
+  position: absolute;
+  color:#29c7ac;
+  right:160px;
+  top:120px;
+}
+
+#goals{
+  position:absolute;
+  color:#512b58;
+  left:0px;
+  bottom:130px;
+}
+
+#idea{
+  position:absolute;
+  color:#29c7ac;
+  left:0px;
+  bottom:80px;
+}
+a{
+  text-decoration: none;
+}
+
+.icon{
+  position: absolute;
+  left:400px;
+}
+
+.top{
+  margin-top: 100px;
+  width:1060px;
+  height:50px;
+  background-color: #29c7ac;
+  position:absolute;
+  left:160px;
+}
+
+.middle{
+  margin-bottom: 100px;
+  width: 800px;
+  height: 500px;
+  background-color: white;
+  position: absolute;
+  top:160px;
+  left:160px;
+  align-items: center;
+}
+
+.right{
+  margin-left: 30px;
+  width:250px;
+  height:500px;
+  background-color: #29c7ac;
+  position: absolute;
+  top: 160px;
+  right:40px;
+}
+
+.bottom{
+  margin-bottom: 30px;
+  width:1060px;
+  height: 50px;
+  background-color: white;
+  position: absolute;
+  left:160px;
+  top:670px;
+}
+
+.sub{
+  position:absolute;
+  left:250px;
+
+}
+
+.buttom{
+  position: absolute;
+  top:15px;
+  left:780px;
+}
+
+.me{
+  position: absolute;
+  border-radius: 60%;
+  top:15px;
+  left:40px;
+}
+
+.linkedin{
+  position: absolute;
+  bottom:240px;
+  left:105px;
+}
